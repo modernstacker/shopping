@@ -18,6 +18,7 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 6>click on import
 
+
 7>select file [online-shopping-with-advanced-admin-page/database/onlineshop.sql].
 
 8>edit file in folder online-shopping-system-advanced/db.php.
