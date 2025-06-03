@@ -25,8 +25,6 @@ online shopping system is a [DBMS project] with both admin and user layouts.
 
 9>open any browser and type http://localhost/online-shopping-with-advanced-admin-page.
 
-10>first register and then login
-
 
 
 # Screenshots
